@@ -1,0 +1,35 @@
+.imgs
+{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png');
+    width: 50%;
+    margin-left: 400px;
+    
+
+}
+h1
+{
+    color: #ffffff;
+    background-color: #323f4b;
+    text-align: center;
+    /* font-family: Roboto; */
+}
+.cl
+{
+    color: #ffffff;
+    background-color: #47a3f3;
+    text-align: end;
+    padding: 20px;
+    border-radius: 10px 10px 0px 10px;
+    margin: 20px;
+    
+}
+.cll
+{
+    color: #ffffff;
+    background-color:#52606d;
+    padding: 20px;
+    border-radius: 10px 10px 10px 0px;
+    margin: 20px;
+    
+    
+}
